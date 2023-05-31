@@ -1,0 +1,5 @@
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\Ejecutable.exe
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\Ejecutable.dll
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\Ejecutable.deps.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\Ejecutable.runtimeconfig.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\Ejecutable.pdb

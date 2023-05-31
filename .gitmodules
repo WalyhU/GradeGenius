@@ -1,0 +1,6 @@
+[submodule "API_ProyectoFinal"]
+	path = API_ProyectoFinal
+	url = https://github.com/WalyhU/API_ProyectoFinal
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/WalyhU/front-end

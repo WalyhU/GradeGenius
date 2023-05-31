@@ -1,0 +1,5 @@
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\GRADEGENIUS\Ejecutable.exe
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\GRADEGENIUS\Ejecutable.dll
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\GRADEGENIUS\Ejecutable.deps.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\GRADEGENIUS\Ejecutable.runtimeconfig.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\PROYECTO FINAL\GRADEGENIUS\Ejecutable.pdb

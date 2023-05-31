@@ -1,0 +1,15 @@
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\bin\Release\net6.0\Ejecutable.exe
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\bin\Release\net6.0\Ejecutable.deps.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\bin\Release\net6.0\Ejecutable.runtimeconfig.json
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\bin\Release\net6.0\Ejecutable.dll
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\bin\Release\net6.0\Ejecutable.pdb
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.csproj.AssemblyReference.cache
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.AssemblyInfoInputs.cache
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.AssemblyInfo.cs
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.csproj.CoreCompileInputs.cache
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.dll
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\refint\Ejecutable.dll
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.pdb
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\Ejecutable.genruntimeconfig.cache
+C:\Users\pitap\OneDrive\Documentos\UMG\SEMESTRE 3\PROGRAMACIÓN 1\API PROYECTO FINAL\Ejecutable\Ejecutable\obj\Release\net6.0\ref\Ejecutable.dll
